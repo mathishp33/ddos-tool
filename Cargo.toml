@@ -1,0 +1,9 @@
+[package]
+name = "ddos-tool"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.28.1"
+num_cpus = "1.13"
+indicatif = "0.16"
