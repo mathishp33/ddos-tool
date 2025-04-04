@@ -1,8 +1,8 @@
-#DDOS attack tool
+# DDOS attack tool
 
 A simple and easy to use DDOS attack tool made in Rust, for eductional purposes only.
 
-#Usage
+# Usage
 
 commands : 
 "/help" to get help
