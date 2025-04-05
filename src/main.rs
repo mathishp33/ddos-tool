@@ -34,6 +34,7 @@ fn main() {
 
     print(title.to_string(), Color::Red);
     print(help_text.to_string(), Color::Green);
+    print("Made by mathishp33".to_string(), Color::Blue);
 
     while running {
         print(">>>".to_string(), Color::Yellow);
